@@ -7,7 +7,7 @@ which contains a nice UI/UX built using bootstrap,
 Displays upcoming/top-rated/latest movie releases as well as  
 movies according to their movie genres.  
 
-Second is for administratin pupose for staff members ,they can access it on http://127.0.0.1:8000/admin  
+Second is for administration pupose for staff members ,they can access it on http://127.0.0.1:8000/admin  
 they can control what should be displayed on vistors page  
 After login to admin panel under movies section four section are listed.  
 Actors(casts) / Directors/ Categorys/ Movies  
